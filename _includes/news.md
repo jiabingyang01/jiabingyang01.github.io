@@ -4,7 +4,8 @@
 
 <div class="news-section">
 <ul>
-    <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
+  <li><strong>[April. 2024]</strong> 🎉🎉🎉Our paper about privacy protection in person re-identification is submitted to ACMMM 2024.</li>
+    <!-- <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
   <li><strong>[Jul. 2024]</strong> Three papers are accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>  
     <li><strong>[June 2024]</strong> Our work on  <a href="https://arxiv.org/abs/2310.11284">self-supervised 3D scene flow estimation</a> is accepted by TPAMI.</li>
   <li><strong>[June 2024]</strong> 🔥We present <a href="https://buaacyw.github.io/mesh-anything/">MeshAnything</a>, a study on high-quality mesh generation with autoregressive transformers.</li>
@@ -24,7 +25,7 @@
   <li><strong>[Aug 2023]</strong> We have released <a href="https://icoz69.github.io/stablellava-official/">StableLLaVA</a>, a clever strategy for collecting datasets to train multimodal LLMs.</li>
   <li><strong>[Jul. 2023]</strong> Our work, <a href="https://arxiv.org/abs/2307.10984">Metric3D</a>, accepted by ICCV 2023, won first place in the <a href="https://jspenmar.github.io/MDEC/">2nd Monocular Depth Estimation Competition at CVPR</a>.</li>
   <li><strong>[Jul. 2023]</strong> Three papers are accepted to ICCV 2023.</li>
-  <li><strong>[May 2023]</strong> We have released <a href="https://arxiv.org/abs/2305.19012">StyleAvatar3D</a>, a work for 3D stylized avatar generation.</li>
+  <li><strong>[May 2023]</strong> We have released <a href="https://arxiv.org/abs/2305.19012">StyleAvatar3D</a>, a work for 3D stylized avatar generation.</li> -->
 </ul>
 </div>
 
