@@ -5,7 +5,7 @@ main:
     conference_short: AAAI
     conference: Submitting to <strong>AAAI 2025</strong>, Aug. 2024.
     # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
-    image: ./assets/img/AAAI2025.png
+    image: ./assets/teaser/AAAI2025.png
     
 
   # - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
