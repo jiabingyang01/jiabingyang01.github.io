@@ -2,7 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
-## News
 <div class="news-section">
 <ul>
     <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
