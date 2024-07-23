@@ -2,10 +2,9 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">3400 N. Charles St., Baltimore, MD 21218-2625</a>
+<p><strong>Address:</strong> <a href="https://map.baidu.com/poi/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6(%E6%B8%85%E6%B0%B4%E6%B2%B3%E6%A0%A1%E5%8C%BA)/@11570395.127965013,3581537.6159742433,12.62z?uid=7001486489acc1e6a8f72947&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl">No. 2006 Xiyuan Avenue, High tech Zone, Chengdu City, Sichuan Province, China</a>
 <br />
-<strong>Office Location:</strong> Malone Hall 248
+
+<strong>Email:</strong> <email>jiabingyang01@gmail.com</email>
 <br />
-<strong>Email:</strong> <email>yyliu (at) cs.jhu.edu</email>
-<br />
-<strong>Phone:</strong> (857) 209-8688</p>
+<strong>Phone:</strong> +86 18707064655</p>
