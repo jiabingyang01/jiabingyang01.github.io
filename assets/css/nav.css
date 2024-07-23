@@ -17,8 +17,9 @@
 }
 
   .topnav img {
-    margin-bottom:0;
-    margin-top:0;
+    max-height: 100%; /* 确保图片的高度不超过导航栏的高度 */
+    height: auto;     /* 保持图片的纵横比 */
+    margin: 0;        /* 重置所有外边距 */
     margin-left:30%;
   }
   
