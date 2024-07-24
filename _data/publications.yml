@@ -3,7 +3,7 @@ main:
   - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
     authors: Rui Wang, Ruikang Lin, <strong>Jiabing Yang</strong> , Hao Ni, Lianli Gao, Jingkuan Song
     conference_short: AAAI
-    conference: Submitting to <strong>AAAI 2025</strong>, Aug. 2024.
+    conference: Submitting to <strong><i style="color:#1e90ff">AAAI 2025</i></strong>, Aug. 2024.
     # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
     image: ./assets/teaser/AAAI2025.png
     
