@@ -28,8 +28,8 @@ twitter: https://twitter.com/
 
 # Images 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/uestc_logo.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/uestc_logo.jpg
+favicon_dark: ./assets/img/uestc_logo.jpg
 
 # Footnotes
 # footnote: Feel free to use my website's source code.
