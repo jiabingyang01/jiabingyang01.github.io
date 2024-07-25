@@ -13,7 +13,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 80%; height: auto; vertical-align: top;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 20%; height: 110; vertical-align: top;">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 15px;">
