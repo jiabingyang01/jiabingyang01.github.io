@@ -13,10 +13,10 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-2 abbr" style="position: relative;padding-right: 10px;padding-left: 0px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=100%">
       <abbr class="badge" style="position: absolute; top: 0; left: 0;">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 5px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 10px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
