@@ -12,8 +12,8 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 10px;padding-left: 0px;width: 100px; height: 80px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=40%;height=100%">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 10px;padding-left: 0px;width: 160px; height: 80px;">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
       <abbr class="badge" style="position: absolute; top: 0; left: 0;">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 10px;">
