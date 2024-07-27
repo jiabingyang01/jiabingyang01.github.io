@@ -34,4 +34,4 @@ I'm an undergraduate student majoring in Artificial Intelligence at [Yingcai Hon
 
 {% include_relative _includes/contact.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=6Rxz691fLksdEWBSvB3dNcZ2zUeCjGixNlaXP5xsIh8'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=6Rxz691fLksdEWBSvB3dNcZ2zUeCjGixNlaXP5xsIh8'></script>
