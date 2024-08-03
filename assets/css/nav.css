@@ -5,8 +5,6 @@
     position:fixed;
     z-index:999;
     width:100%;
-    display: flex;           /* 添加这个 */
-    align-items: center;     /* 添加这个 */
   }
 
 
@@ -21,8 +19,8 @@
   .topnav img {
     height: 40px; /* 将高度减少 10% */
     width: auto;    /* 让宽度自动调整以保持比例 */
-    /* margin-bottom:-16.5pt;
-    margin-top:-1pt; */
+    margin-bottom:-16.5pt;
+    margin-top:1pt;
     margin-left:30%;
   }
   
