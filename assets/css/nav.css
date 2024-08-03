@@ -5,7 +5,7 @@
     position:fixed;
     z-index:999;
     width:100%;
-    height: 100px; /* 设定新的导航栏高度 */
+    height: 50px; /* 设定新的导航栏高度 */
   }
 
 
