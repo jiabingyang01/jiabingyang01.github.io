@@ -17,11 +17,13 @@
 }
 
   .topnav img {
-    height: 40px; /* 将高度减少 10% */
-    width: auto;    /* 让宽度自动调整以保持比例 */
-    margin-bottom:-16.5pt;
-    margin-top:1pt;
-    margin-left:30%;
+    height: 30px; /* 将高度减少 10% */
+    width: auto;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 30%;
+    
   }
   
   /* Style the links inside the navigation bar */
