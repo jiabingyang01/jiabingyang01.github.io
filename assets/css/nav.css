@@ -17,11 +17,11 @@
 }
 
   .topnav img {
+    max-height: 80%; /* 将高度减少 10% */
+    width: auto;    /* 让宽度自动调整以保持比例 */
     margin-bottom:-16.5pt;
-    margin-top:-0.5pt;
+    margin-top:-1pt;
     margin-left:30%;
-    width: 180px; /* 设置宽度 */
-    height: 44px; /* 设置高度 */
   }
   
   /* Style the links inside the navigation bar */
