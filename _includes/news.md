@@ -4,7 +4,7 @@
 
 <div class="news-section">
 <ul>
-  <li><strong>[April. 2024]</strong> 🎉🎉🎉Our paper about privacy protection in person re-identification is submitted to ACMMM 2024.</li>
+  <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about privacy protection in person re-identification is submitted to AAAI 2025.</li>
     <!-- <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
   <li><strong>[Jul. 2024]</strong> Three papers are accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>  
     <li><strong>[June 2024]</strong> Our work on  <a href="https://arxiv.org/abs/2310.11284">self-supervised 3D scene flow estimation</a> is accepted by TPAMI.</li>
