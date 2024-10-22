@@ -4,7 +4,7 @@
 
 <div class="news-section">
 <ul>
-  <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about union contrastive decoding to mitigate hallucinations in LVLMs is submitted to AAAI 2025.</li>
+<!--   <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about union contrastive decoding to mitigate hallucinations in LVLMs is submitted to AAAI 2025.</li> -->
   <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about privacy protection in person re-identification is submitted to AAAI 2025.</li>
     <!-- <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
   <li><strong>[Jul. 2024]</strong> Three papers are accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>  
