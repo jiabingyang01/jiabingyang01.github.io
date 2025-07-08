@@ -1,9 +1,9 @@
 main:
 
-  - title: "Mitigating Hallucinations in Large Vision-Language Models via Union Contrastive Decoding"
-    authors: <strong>Jiabing Yang</strong>, Chenhang Cui, Zichen Wen, Bohao Yang
-    conference_short: AAAI
-    conference: Submitted to Association for the Advancement of Artificial Intelligence <i style="color:#1e90ff">AAAI 2025</i>.
+  - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
+    authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <i style="color:#1e90ff">AAAI 2025</i>.
     # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
     image: ./assets/teaser/ucd.png
 
