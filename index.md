@@ -24,6 +24,14 @@ I'm an undergraduate student majoring in Artificial Intelligence at [Yingcai Hon
 
 {% include_relative _includes/publications.md %}
 
+ 
+<!-- {% include_relative _includes/preprints.md %} -->
+
+<!-- {% include_relative _includes/teaching.md %} -->
+
+<!-- {% include_relative _includes/talks.md %} -->
+
+<!-- {% include_relative _includes/services.md %}  -->
 
 {% include_relative _includes/contact.md %}
 
