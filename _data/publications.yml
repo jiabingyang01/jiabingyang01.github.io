@@ -4,9 +4,9 @@ main:
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
     conference_short: ICCV
     conference: <i style="color:#1e90ff">ICCV 2025.</i>
-    Website: https://ec-flow1.github.io/
+    page: https://ec-flow1.github.io/
     pdf: https://ec-flow1.github.io/
-    GitHub: https://github.com/YixiangChen515/EC-Flow 
+    code: https://github.com/YixiangChen515/EC-Flow 
     image: ./assets/teaser/EC-Flow.png
 
   # - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
