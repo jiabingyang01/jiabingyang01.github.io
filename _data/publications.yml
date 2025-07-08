@@ -3,26 +3,28 @@ main:
   - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
     conference_short: ICCV
-    conference: <i style="color:#1e90ff">ICCV 2025</i>.
-    # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
-    image: ./assets/teaser/ucd.png
+    conference: <i style="color:#1e90ff">ICCV 2025.</i>
+    Website: https://ec-flow1.github.io/
+    pdf: https://ec-flow1.github.io/
+    GitHub: https://github.com/YixiangChen515/EC-Flow 
+    image: ./assets/teaser/EC-Flow.png
 
-  - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
-    authors: Ruikang Lin, Rui Wang, <strong>Jiabing Yang</strong> , Hao Ni, Lianli Gao, Jingkuan Song
-    conference_short: AAAI
-    conference: Submitted to Association for the Advancement of Artificial Intelligence <i style="color:#1e90ff">AAAI 2025</i>.
-    # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
-    image: ./assets/teaser/AAAI2025.png    
+  # - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
+  #   authors: Ruikang Lin, Rui Wang, <strong>Jiabing Yang</strong> , Hao Ni, Lianli Gao, Jingkuan Song
+  #   conference_short: AAAI
+  #   conference: Submitted to Association for the Advancement of Artificial Intelligence <i style="color:#1e90ff">AAAI 2025</i>.
+  #   # pdf: https://github.com/jiabingyang01/jiabingyang01.github.io/blob/main/assets/files/privacy_protection_ReID.pdf
+  #   image: ./assets/teaser/AAAI2025.png    
     
 
-  - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
-    authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
-    code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://bib.yliu.me/ECCV24.txt
-    image: https://img.yliu.me/teaser/iNeMo.png
+  # - title: "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning"
+  #   authors: Tom Fischer, <strong>Yaoyao Liu</strong>, Artur Jesslen, Noor Ahmed, Prakhar Kaushik, Angtian Wang, Alan Yuille, Adam Kortylewski, Eddy Ilg
+  #   conference_short: ECCV
+  #   conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+  #   pdf: https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf
+  #   code: https://github.com/Fischer-Tom/iNeMo
+  #   bibtex: https://bib.yliu.me/ECCV24.txt
+  #   image: https://img.yliu.me/teaser/iNeMo.png
     
   # - title: Generating Images with 3D Annotations Using Diffusion Models
   #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
