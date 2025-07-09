@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I'm an undergraduate student majoring in Artificial Intelligence at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/index.htm) of [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+I'm an student majoring in Artificial Intelligence at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/index.htm) of [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 <h1 id="research-interests"></h1>
 
