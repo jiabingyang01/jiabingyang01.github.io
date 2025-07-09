@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I am an incoming first-year PhD student at [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). At the same time, I study at [New Laboratory of Pattern Recognition (NLPR)](http://www.cripac.ia.ac.cn/CN/model/index.htm) of  [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://ia.cas.cn/), advised by Prof. [Yan Huang](https://scholar.google.com/citations?user=6nUJrQ0AAAAJ&hl=zh-CN). Prior to that, I obtained my Bachelor's degree in Artificial Intelligence at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+I am an incoming first-year PhD student at [School of Artificial Intelligence](https://ai.ucas.ac.cn/index.php/zh-cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/). At the same time, I study at [New Laboratory of Pattern Recognition (NLPR)](http://www.cripac.ia.ac.cn/CN/model/index.htm) of  [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://ia.cas.cn/), advised by Prof. [Yan Huang](https://scholar.google.com/citations?user=6nUJrQ0AAAAJ&hl=zh-CN). Prior to that, I obtained my Bachelor's degree in Artificial Intelligence at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
 
 <h1 id="research-interests"></h1>
 
