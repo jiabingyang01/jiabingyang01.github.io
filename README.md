@@ -10,11 +10,12 @@ For more details, please refer to this repository: <https://github.com/yaoyao-li
 
 You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.
 
+
 Install and run:
 
 ```bash
 bundle install
-bundle exec jekyll server
+bundle exec jekyll server (jekyll build)
 ```
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the html files in the `_site` folder.
