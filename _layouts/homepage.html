@@ -96,30 +96,51 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
+        {% endif %}
+        <br>
+        {% if site.logo %}
+        <a class="image logo"><img src="{{ site.logo }}" alt="logo" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+        {% if site.subtitle %}
+        <h3>{{ site.subtitle }}</h3>
+        {% endif %}
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+        {% if site.subposition %}
+        <a href="{{ site.subposition_link }}" class="no-color" rel="noopener" target="_blank">
+          <position style="font-size:0.95rem">{{ site.subposition }}</position>
+        </a>
+        <br>
+        {% endif %}
+        {% if site.subaffiliation %}
+        <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank">
+          <autocolor>{{ site.subaffiliation }},</autocolor>
+        </a>
+        <br>
+        {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>
+        <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank">
+          <autocolor>{{ site.affiliation }}</autocolor>
+        </a>
         <br>
         {% endif %}
         {% if site.address %}
         <a href="{{ site.address_link }}" rel="noopener" target="_blank">
-          <autocolor>{{ site.address }}</autocolor>
+          <h4>{{ site.address }}</h4>
         </a>
-        {% endif %}        
-        {% if site.email %}
-        <email>{{ site.email }}</email>
         {% endif %}
-        {% if site.email2 %}
-        <br>
-        <email>{{ site.email2 }}</email>
+        {% if site.email %}
+        <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
+          <email>
+            {{ site.email }}
+          </email>
+        </a>
         {% endif %}
         
         <br>
