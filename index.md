@@ -10,7 +10,7 @@ I'm an undergraduate student majoring in Artificial Intelligence at [Yingcai Hon
 
 <h1 id="research-interests"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Research Interests</h2>
+<h2 style="margin: 30px 0px 10px;">Research Interests</h2>
 
 - **Large Language Models:** Control Text Generation (CTG), Agents.
 - **Multimodal Large Language Models:** Alignment, Hallucinations, Efficient Inference.
