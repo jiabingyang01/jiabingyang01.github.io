@@ -9,6 +9,15 @@ main:
     code: https://github.com/YixiangChen515/EC-Flow 
     image: ./assets/teaser/EC-Flow.png
 
+  - title: "BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models"
+    authors: Peiyan Li, Yixiang Chen, Hongtao Wu, Xiao Ma, Xiangnan Wu, Yan Huang, Liang Wang, Tao Kong, Tieniu Tan
+    conference_short: ICCV
+    conference: <i style="color:#1e90ff">ICCV 2025.</i>
+    page: https://ec-flow1.github.io/
+    pdf: https://arxiv.org/pdf/2507.06224
+    code: https://github.com/YixiangChen515/EC-Flow 
+    image: ./assets/teaser/EC-Flow.png    
+
   # - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
   #   authors: Ruikang Lin, Rui Wang, <strong>Jiabing Yang</strong> , Hao Ni, Lianli Gao, Jingkuan Song
   #   conference_short: AAAI
