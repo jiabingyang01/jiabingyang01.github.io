@@ -5,7 +5,7 @@
 <div class="news-section">
 <ul>
 <!--   <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about union contrastive decoding to mitigate hallucinations in LVLMs is submitted to AAAI 2025.</li> -->
-  <li><strong>[Jul. 2025]</strong> 🎉🎉🎉 Our paper "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow" is accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
+  <li><strong>[Jul. 2025]</strong> 🎉🎉🎉 Our paper <a href="https://ec-flow1.github.io/"><em>EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow</em></a> is accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
     <!-- <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
   <li><strong>[Jul. 2024]</strong> Three papers are accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>  
     <li><strong>[June 2024]</strong> Our work on  <a href="https://arxiv.org/abs/2310.11284">self-supervised 3D scene flow estimation</a> is accepted by TPAMI.</li>
