@@ -3,7 +3,7 @@ main:
   - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
     conference_short: ICCV
-    conference: <i href="https://iccv.thecvf.com/" style="color:#1e90ff">ICCV 2025</i>.
+    conference: <a href="https://iccv.thecvf.com/" style="color:#1e90ff">ICCV 2025</a>.
     page: https://ec-flow1.github.io/
     pdf: https://arxiv.org/pdf/2507.06224
     code: https://github.com/YixiangChen515/EC-Flow 
