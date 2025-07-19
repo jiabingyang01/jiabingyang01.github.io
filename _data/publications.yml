@@ -9,8 +9,8 @@ main:
     code: https://github.com/YixiangChen515/EC-Flow 
     image: ./assets/teaser/EC-Flow.png
 
-  - title: "BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models"
-    authors: Peiyan Li, Yixiang Chen, Hongtao Wu, Xiao Ma, Xiangnan Wu, Yan Huang, Liang Wang, Tao Kong, Tieniu Tan
+  - title: "CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models"
+    authors: Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
     conference_short: ICCV
     conference: <i style="color:#1e90ff">ICCV 2025.</i>
     page: https://ec-flow1.github.io/
