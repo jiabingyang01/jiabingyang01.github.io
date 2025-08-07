@@ -7,7 +7,7 @@ main:
     page: https://arxiv.org/pdf/2508.04047
     pdf: https://arxiv.org/pdf/2508.04047
     code: https://arxiv.org/pdf/2508.04047 
-    image: ./assets/teaser/DTPA.pdf
+    image: ./assets/teaser/DTPA.png
 
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
     authors: <strong>Jiabing Yang</strong>, Chenhang Cui, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
@@ -16,7 +16,7 @@ main:
     page: https://arxiv.org/pdf/2508.03469
     pdf: https://arxiv.org/pdf/2508.03469
     code: https://arxiv.org/pdf/2508.03469 
-    image: ./assets/teaser/IKOD.pdf
+    image: ./assets/teaser/IKOD.png
 
   - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
