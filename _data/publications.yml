@@ -10,7 +10,7 @@ main:
     image: ./assets/teaser/DTPA.png
 
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
-    authors: <strong>Jiabing Yang<sup>*</sup></strong>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
+    authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
     conference_short: Arxiv
     conference: <i style="color:#1e90ff">Arxiv 2025.</i>
     page: https://arxiv.org/pdf/2508.03469
