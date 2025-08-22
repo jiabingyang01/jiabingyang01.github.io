@@ -32,7 +32,7 @@ main:
     conference_short: ICCV
     conference: <i style="color:#1e90ff">ICCV 2025.</i>
     page: https://ec-flow1.github.io/
-    pdf: https://arxiv.org/pdf/2507.06224
+    pdf: https://arxiv.org/abs/2507.06224
     code: https://github.com/YixiangChen515/EC-Flow 
     image: ./assets/teaser/EC-Flow.png
 
