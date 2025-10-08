@@ -1,9 +1,18 @@
 main:
 
+  - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
+    authors: Yuan Xu, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
+    page: https://egodemogen.github.io/
+    pdf: https://arxiv.org/abs/2509.22578
+    code: https://egodemogen.github.io/ 
+    image: ./assets/teaser/EgoDemoGen.png
+
   - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
     authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
-    conference_short: Arxiv
-    conference: <i style="color:#1e90ff">Arxiv 2025.</i>
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.13305
     pdf: https://arxiv.org/abs/2508.13305
     code: https://arxiv.org/abs/2508.13305 
@@ -11,8 +20,8 @@ main:
 
   - title: "DTPA: Dynamic Token-level Prefix Augmentation for Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Yan Huang, Liang Wang
-    conference_short: Arxiv
-    conference: <i style="color:#1e90ff">Arxiv 2025.</i>
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.04047
     pdf: https://arxiv.org/abs/2508.04047
     code: https://arxiv.org/abs/2508.04047 
@@ -20,8 +29,8 @@ main:
 
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
     authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
-    conference_short: Arxiv
-    conference: <i style="color:#1e90ff">Arxiv 2025.</i>
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.03469
     pdf: https://arxiv.org/abs/2508.03469
     code: https://arxiv.org/abs/2508.03469 
