@@ -1,7 +1,7 @@
 main:
 
   - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
-    authors: Yuan Xu, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+    authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
     conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://egodemogen.github.io/
