@@ -9,6 +9,15 @@ main:
     code: https://egodemogen.github.io/ 
     image: ./assets/teaser/EgoDemoGen.png
 
+  - title: "AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs"
+    authors: Peize He, Zichen Wen, Yubo Wang, Yuxuan Wang, Xiaoqian Liu, Jiajie Huang, Zehui Lei, Zhuangcheng Gu, Xiangqi Jin, <strong>Jiabing Yang</strong>, Kai Li, Zhifei Liu, Weijia Li, Cunxiang Wang, Conghui He, Linfeng Zhang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
+    page: https://github.com/DabDans/AudioMarathon
+    pdf: https://arxiv.org/abs/2510.07293
+    code: https://github.com/DabDans/AudioMarathon 
+    image: ./assets/teaser/AudioMarathon.png
+
   - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
     authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
     conference_short: arXiv
