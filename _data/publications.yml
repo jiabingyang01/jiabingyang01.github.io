@@ -1,5 +1,14 @@
 main:
 
+  - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
+    authors: Rui Wang, Ruikang Lin, <strong>Jiabing Yang</strong>, Hao Ni, Jingkuan Song
+    conference_short: Pattern Recognition
+    conference: <i style="color:#1e90ff">Pattern Recognition.</i>
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016024
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016024
+    code: https://github.com/Physics-wr/Anonymizing-Diffusion-Model 
+    image: ./assets/teaser/pr.png
+
   - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
     authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
