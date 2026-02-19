@@ -1,4 +1,4 @@
 {
-"builds": [],
-"outputDirectory": "_site"
+  "buildCommand": "bundle install && bundle exec jekyll build",
+  "outputDirectory": "_site"
 }
