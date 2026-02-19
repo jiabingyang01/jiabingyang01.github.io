@@ -1,5 +1,14 @@
 main:
 
+  - title: "ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models"
+    authors: Bowen Fang, Wen Ye, Yunyue Su, Jinghao Zhang, Qiang Liu, Yesheng Liu, Xin Sun, Shu Wu, Jiabing Yang, Baole Wei, Liang Wang
+    conference_short: ICLR
+    conference: <i style="color:#1e90ff">ICLR 2026.</i>
+    page: https://github.com/Fwibo/ToolWeaver
+    pdf: https://arxiv.org/abs/2601.21947
+    code: https://github.com/Fwibo/ToolWeaver
+    image: ./assets/teaser/pr.png
+
   - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
     authors: Rui Wang, Ruikang Lin, <strong>Jiabing Yang</strong>, Hao Ni, Jingkuan Song
     conference_short: PR
