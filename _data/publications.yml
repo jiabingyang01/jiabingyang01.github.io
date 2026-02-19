@@ -7,7 +7,7 @@ main:
     page: https://github.com/Fwibo/ToolWeaver
     pdf: https://arxiv.org/abs/2601.21947
     code: https://github.com/Fwibo/ToolWeaver
-    image: ./assets/teaser/pr.png
+    image: ./assets/teaser/ToolWeaver.png
 
   - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
     authors: Rui Wang, Ruikang Lin, <strong>Jiabing Yang</strong>, Hao Ni, Jingkuan Song
