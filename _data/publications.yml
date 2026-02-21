@@ -1,7 +1,16 @@
 main:
 
+  - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
+    authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
+    conference_short: CVPR
+    conference: <i style="color:#1e90ff">CVPR 2026.</i>
+    page: https://arxiv.org/abs/2508.13305
+    pdf: https://arxiv.org/abs/2508.13305
+    code: https://arxiv.org/abs/2508.13305 
+    image: ./assets/teaser/Prune2Drive.png
+
   - title: "ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models"
-    authors: Bowen Fang, Wen Ye, Yunyue Su, Jinghao Zhang, Qiang Liu, Yesheng Liu, Xin Sun, Shu Wu, Jiabing Yang, Baole Wei, Liang Wang
+    authors: Bowen Fang, Wen Ye, Yunyue Su, Jinghao Zhang, Qiang Liu, Yesheng Liu, Xin Sun, Shu Wu, <strong>Jiabing Yang</strong>, Baole Wei, Liang Wang
     conference_short: ICLR
     conference: <i style="color:#1e90ff">ICLR 2026.</i>
     page: https://github.com/Fwibo/ToolWeaver
@@ -35,15 +44,6 @@ main:
     pdf: https://arxiv.org/abs/2510.07293
     code: https://github.com/DabDans/AudioMarathon 
     image: ./assets/teaser/AudioMarathon.png
-
-  - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
-    authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
-    conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2025.</i>
-    page: https://arxiv.org/abs/2508.13305
-    pdf: https://arxiv.org/abs/2508.13305
-    code: https://arxiv.org/abs/2508.13305 
-    image: ./assets/teaser/Prune2Drive.png
 
   - title: "DTPA: Dynamic Token-level Prefix Augmentation for Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Yan Huang, Liang Wang
