@@ -3,7 +3,7 @@ main:
   - title: "UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Xiangnan Wu, Zichen Wen, Bowen Fang, Tao Yu, Zhengbo Zhang, Yingda Li, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2025.</i>
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
     page: https://uaor.jiabingyang.cn/
     pdf: https://arxiv.org/abs/2602.18020v1
     code: https://uaor.jiabingyang.cn/ 
