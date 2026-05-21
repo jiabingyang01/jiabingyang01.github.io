@@ -1,6 +1,6 @@
 main:
 
-  - title: "UOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
+  - title: "UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Xiangnan Wu, Zichen Wen, Bowen Fang, Tao Yu, Zhengbo Zhang, Yingda Li, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
     conference: <i style="color:#1e90ff">arXiv 2026.</i>
@@ -54,14 +54,14 @@ main:
     code: https://github.com/DabDans/AudioMarathon 
     image: ./assets/teaser/AudioMarathon.png
 
-  - title: "DTPA: Dynamic Token-level Prefix Augmentation for Controllable Text Generation"
-    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Yan Huang, Liang Wang
+  - title: "LaPA\textsuperscript{2}: Length-aware Prefix and Prompt Attention Augmentation for Controllable Text Generation"
+    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: arXiv
     conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.04047
     pdf: https://arxiv.org/abs/2508.04047
     code: https://arxiv.org/abs/2508.04047 
-    image: ./assets/teaser/DTPA.png
+    image: ./assets/teaser/LaPA2.png
 
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
     authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
