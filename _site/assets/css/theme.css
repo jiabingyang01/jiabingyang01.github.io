@@ -1,5 +1,33 @@
 :root {
   color-scheme: light;
+  --site-accent-color: #8bd5ff;
+}
+
+html[data-theme="light"] {
+  --global-theme-color: var(--site-accent-color);
+}
+
+html[data-theme="light"] h1,
+html[data-theme="light"] h2,
+html[data-theme="light"] h3,
+html[data-theme="light"] h4,
+html[data-theme="light"] h5,
+html[data-theme="light"] h6,
+html[data-theme="light"] a {
+  color: var(--site-accent-color);
+}
+
+html[data-theme="light"] a:hover {
+  color: var(--site-accent-color);
+  text-decoration: underline;
+}
+
+html[data-theme="light"] .social-icons a {
+  color: var(--site-accent-color) !important;
+}
+
+html[data-theme="light"] .badge {
+  color: #003b63 !important;
 }
 
 html[data-theme="dark"] {
@@ -8,7 +36,7 @@ html[data-theme="dark"] {
   --global-code-bg-color: #1f2937;
   --global-text-color: #d1d5db;
   --global-text-color-light: #9ca3af;
-  --global-theme-color: #67c5f3;
+  --global-theme-color: var(--site-accent-color);
 }
 
 body,
@@ -43,7 +71,7 @@ html[data-theme="dark"] h6 {
 }
 
 html[data-theme="dark"] a {
-  color: #67c5f3;
+  color: var(--site-accent-color);
 }
 
 html[data-theme="dark"] a:hover {
@@ -61,7 +89,11 @@ html[data-theme="dark"] autocolor {
 }
 
 html[data-theme="dark"] .social-icons a {
-  color: #8bd5ff !important;
+  color: var(--site-accent-color) !important;
+}
+
+html[data-theme="dark"] .badge {
+  color: #003b63 !important;
 }
 
 html[data-theme="dark"] .social-icons a:hover {
