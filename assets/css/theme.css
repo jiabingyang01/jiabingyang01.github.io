@@ -33,6 +33,7 @@ html[data-theme="light"] .theme-toggle:hover {
 
 html[data-theme="dark"] {
   color-scheme: dark;
+  --nav-blue: #67c5f3;
   --global-bg-color: #111827;
   --global-code-bg-color: #1f2937;
   --global-text-color: #d1d5db;
