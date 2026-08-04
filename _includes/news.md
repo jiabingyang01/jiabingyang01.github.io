@@ -5,6 +5,9 @@
 <div class="news-section">
 <ul>
 <!--   <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about union contrastive decoding to mitigate hallucinations in LVLMs is submitted to AAAI 2025.</li> -->
+  <li><strong>[Aug. 2026]</strong> 🎉🎉🎉 Our paper <a href="https://egodemogen.github.io/">EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation</a> is accepted to <a href="https://2026.acmmm.org/">ACM MM 2026</a>.</li>
+  <li><strong>[Jul. 2026]</strong> 🎉🎉🎉 Our paper <a href="https://arxiv.org/abs/2607.18508">Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation</a> is accepted to the ACM MM 2026 Workshop.</li>
+  <li><strong>[Jun. 2026]</strong> 🎉🎉🎉 Our paper <a href="https://hi-yuanxu.github.io/StaKe-Web/">Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision</a> is accepted to IROS 2026.</li>
   <li><strong>[Jul. 2025]</strong> 🎉🎉🎉 Our paper <a href="https://ec-flow1.github.io/">EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow</a> is accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
     <!-- <li><strong>[Jul. 2024]</strong> 🎉🎉🎉I joined Westlake University as an Assistant Professor (PI) and established AGI lab.</li>  
   <li><strong>[Jul. 2024]</strong> Three papers are accepted to <a href="https://eccv.ecva.net/">ECCV 2024</a>.</li>  

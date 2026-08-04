@@ -1,5 +1,31 @@
 main:
 
+  - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
+    authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+    conference_short: ACM MM
+    conference: <i style="color:#1e90ff">ACM MM 2026.</i>
+    page: https://egodemogen.github.io/
+    pdf: https://arxiv.org/abs/2509.22578
+    code: https://github.com/GigaAI-research/EgoDemoGen
+    image: ./assets/teaser/EgoDemoGen.png
+
+  - title: "Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision"
+    authors: Yuan Xu, Yixiang Chen, Kai Wang, <strong>Jiabing Yang</strong>, Peiyan Li, Qisen Ma, Yan Huang, Liang Wang
+    conference_short: IROS
+    conference: <i style="color:#1e90ff">IROS 2026.</i>
+    page: https://hi-yuanxu.github.io/StaKe-Web/
+    pdf: https://arxiv.org/abs/2606.26801
+    image: ./assets/teaser/StaKe.png
+
+  - title: "Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation"
+    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Qisen Ma, Tao Yu, Peiyan Li, Yingda Li, Yan Huang, Liang Wang
+    conference_short: ACM MM
+    conference: <i style="color:#1e90ff">ACM MM 2026 Workshop.</i>
+    page: https://github.com/jiabingyang01/EmoPrefer-Audit
+    pdf: https://arxiv.org/abs/2607.18508
+    code: https://github.com/jiabingyang01/EmoPrefer-Audit
+    image: ./assets/teaser/EmoPreferAudit.png
+
   - title: "UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Xiangnan Wu, Zichen Wen, Bowen Fang, Tao Yu, Zhengbo Zhang, Yingda Li, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
@@ -35,15 +61,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016024
     code: https://github.com/Physics-wr/Anonymizing-Diffusion-Model 
     image: ./assets/teaser/pr.png
-
-  - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
-    authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
-    conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2025.</i>
-    page: https://egodemogen.github.io/
-    pdf: https://arxiv.org/abs/2509.22578
-    code: https://egodemogen.github.io/ 
-    image: ./assets/teaser/EgoDemoGen.png
 
   - title: "AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs"
     authors: Peize He, Zichen Wen, Yubo Wang, Yuxuan Wang, Xiaoqian Liu, Jiajie Huang, Zehui Lei, Zhuangcheng Gu, Xiangqi Jin, <strong>Jiabing Yang</strong>, Kai Li, Zhifei Liu, Weijia Li, Cunxiang Wang, Conghui He, Linfeng Zhang
