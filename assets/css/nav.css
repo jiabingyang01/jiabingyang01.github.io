@@ -35,6 +35,8 @@ html {
   display: flex;
   flex: 0 0 auto;
   align-items: center;
+  justify-content: center;
+  width: 232px;
   height: 100%;
   color: var(--nav-text) !important;
   font-size: 17px;
@@ -198,6 +200,13 @@ html[data-theme="dark"] .theme-icon-sun {
   .topnav-inner {
     width: calc(100% - 30px);
     padding: 0;
+  }
+
+  .nav-brand {
+    position: absolute;
+    left: 50%;
+    width: auto;
+    transform: translateX(-50%);
   }
 
   .nav-toggle {
