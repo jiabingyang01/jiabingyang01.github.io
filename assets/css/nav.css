@@ -1,6 +1,6 @@
 :root {
   --nav-height: 48px;
-  --nav-blue: #1e90ff;
+  --nav-blue: #3399cc;
 }
 
 html {
@@ -140,6 +140,55 @@ html {
   transform: translateY(-7px) rotate(-45deg);
 }
 
+.theme-toggle {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  margin: 0 0 0 6px;
+  padding: 0;
+  color: #ffffff;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.38);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 160ms ease, border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.75);
+}
+
+.theme-toggle:active {
+  transform: scale(0.94);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+.theme-icon {
+  font-size: 15px;
+  line-height: 1;
+}
+
+.theme-icon-sun {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-icon-moon {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-icon-sun {
+  display: inline-block;
+}
+
 @media screen and (max-width: 960px) {
   body {
     padding-top: calc(var(--nav-height) + 15px);
@@ -152,6 +201,11 @@ html {
 
   .nav-toggle {
     display: flex;
+    margin-left: 4px;
+  }
+
+  .theme-toggle {
+    margin-left: auto;
   }
 
   .nav-links {
@@ -210,6 +264,10 @@ html {
   .nav-link,
   .nav-link::after,
   .nav-toggle span {
+    transition: none;
+  }
+
+  .theme-toggle {
     transition: none;
   }
 }

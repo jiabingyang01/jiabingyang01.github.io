@@ -77,9 +77,47 @@
     updateActiveLink();
   }
 
+  function initializeThemeToggle() {
+    const root = document.documentElement;
+    const toggle = document.querySelector(".theme-toggle");
+
+    if (!toggle) return;
+
+    function updateToggle(theme) {
+      const nextTheme = theme === "dark" ? "light" : "dark";
+      const label = "Switch to " + nextTheme + " mode";
+      toggle.setAttribute("aria-label", label);
+      toggle.setAttribute("title", label);
+    }
+
+    function applyTheme(theme, persist) {
+      root.setAttribute("data-theme", theme);
+      updateToggle(theme);
+
+      if (persist) {
+        try {
+          localStorage.setItem("site-theme", theme);
+        } catch (error) {
+          // Theme switching still works when storage is unavailable.
+        }
+      }
+    }
+
+    toggle.addEventListener("click", function () {
+      const currentTheme = root.getAttribute("data-theme") || "light";
+      applyTheme(currentTheme === "dark" ? "light" : "dark", true);
+    });
+
+    updateToggle(root.getAttribute("data-theme") || "light");
+  }
+
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initializeNavigation);
+    document.addEventListener("DOMContentLoaded", function () {
+      initializeNavigation();
+      initializeThemeToggle();
+    });
   } else {
     initializeNavigation();
+    initializeThemeToggle();
   }
 })();

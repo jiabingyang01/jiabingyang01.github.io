@@ -5,6 +5,7 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="description" content="Jiabing Yang">
     <meta name="keywords" content="yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao">
 
@@ -20,6 +21,25 @@
     <meta name="twitter:description" content="Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.">
     <meta name="twitter:image" content="./assets/img/yjb.jpg">
 
+    <script>
+      (function () {
+        var theme = "light";
+        try {
+          var savedTheme = localStorage.getItem("site-theme");
+          if (savedTheme === "light" || savedTheme === "dark") {
+            theme = savedTheme;
+          } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+            theme = "dark";
+          }
+        } catch (error) {
+          if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+            theme = "dark";
+          }
+        }
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
+
     <link rel="canonical" href="https://www.cs.jhu.edu/~yyliu/"/>
     <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/yjb.jpg" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/yjb.jpg" type="image/png" />
@@ -28,6 +48,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/pub.css">
     <link rel="stylesheet" href="./assets/css/nav.css">
+    <link rel="stylesheet" href="./assets/css/theme.css">
     
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
@@ -51,6 +72,11 @@
         <a class="nav-brand" href="#about-me" aria-label="Back to About">Jiabing Yang</a>
 
         <div class="nav-links" id="primary-navigation"><a class="nav-link" href="#about-me">About</a><a class="nav-link" href="#research-interests">Research</a><a class="nav-link" href="#news">News</a><a class="nav-link" href="#publications">Publications</a><a class="nav-link" href="#services">Services</a><a class="nav-link" href="#contact">Contact</a></div>
+
+        <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+          <i class="fa-solid fa-sun theme-icon theme-icon-sun" aria-hidden="true"></i>
+          <i class="fa-solid fa-moon theme-icon theme-icon-moon" aria-hidden="true"></i>
+        </button>
 
         <button class="nav-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="primary-navigation">
           <span></span>
