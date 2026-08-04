@@ -1,53 +1,5 @@
 :root {
   color-scheme: light;
-  --site-light-accent-color: #247db3;
-  --site-dark-accent-color: #8bd5ff;
-}
-
-html[data-theme="light"] {
-  --global-theme-color: var(--site-light-accent-color);
-  --nav-blue: var(--site-light-accent-color);
-  --nav-text: #ffffff;
-  --nav-text-muted: rgba(255, 255, 255, 0.9);
-  --nav-hover-bg: rgba(255, 255, 255, 0.12);
-  --nav-control-border: rgba(255, 255, 255, 0.45);
-  --nav-control-border-hover: rgba(255, 255, 255, 0.8);
-}
-
-html[data-theme="light"] h1,
-html[data-theme="light"] h2,
-html[data-theme="light"] h3,
-html[data-theme="light"] h4,
-html[data-theme="light"] h5,
-html[data-theme="light"] h6,
-html[data-theme="light"] a {
-  color: var(--site-light-accent-color);
-}
-
-html[data-theme="light"] h1,
-html[data-theme="light"] h2,
-html[data-theme="light"] h3,
-html[data-theme="light"] h4,
-html[data-theme="light"] h5,
-html[data-theme="light"] h6 {
-  font-weight: 600;
-}
-
-html[data-theme="light"] a:hover {
-  color: var(--site-light-accent-color);
-  text-decoration: underline;
-}
-
-html[data-theme="light"] .social-icons a {
-  color: var(--site-light-accent-color) !important;
-}
-
-html[data-theme="light"] .badge {
-  color: #ffffff !important;
-}
-
-html[data-theme="light"] .periodical i {
-  color: var(--site-light-accent-color) !important;
 }
 
 html[data-theme="dark"] {
@@ -56,13 +8,7 @@ html[data-theme="dark"] {
   --global-code-bg-color: #1f2937;
   --global-text-color: #d1d5db;
   --global-text-color-light: #9ca3af;
-  --global-theme-color: var(--site-dark-accent-color);
-  --nav-blue: var(--site-dark-accent-color);
-  --nav-text: #003b63;
-  --nav-text-muted: rgba(0, 59, 99, 0.84);
-  --nav-hover-bg: rgba(0, 59, 99, 0.08);
-  --nav-control-border: rgba(0, 59, 99, 0.3);
-  --nav-control-border-hover: rgba(0, 59, 99, 0.6);
+  --global-theme-color: #67c5f3;
 }
 
 body,
@@ -93,11 +39,11 @@ html[data-theme="dark"] h3,
 html[data-theme="dark"] h4,
 html[data-theme="dark"] h5,
 html[data-theme="dark"] h6 {
-  color: var(--site-dark-accent-color);
+  color: #8bd5ff;
 }
 
 html[data-theme="dark"] a {
-  color: var(--site-dark-accent-color);
+  color: #67c5f3;
 }
 
 html[data-theme="dark"] a:hover {
@@ -115,15 +61,7 @@ html[data-theme="dark"] autocolor {
 }
 
 html[data-theme="dark"] .social-icons a {
-  color: var(--site-dark-accent-color) !important;
-}
-
-html[data-theme="dark"] .badge {
-  color: #003b63 !important;
-}
-
-html[data-theme="dark"] .periodical i {
-  color: var(--site-dark-accent-color) !important;
+  color: #8bd5ff !important;
 }
 
 html[data-theme="dark"] .social-icons a:hover {
@@ -163,8 +101,8 @@ html[data-theme="dark"] .publications ol.bibliography li .links a.btn {
 }
 
 html[data-theme="dark"] .publications ol.bibliography li .links a.btn:hover {
-  color: var(--site-dark-accent-color);
-  border-color: var(--site-dark-accent-color);
+  color: #8bd5ff;
+  border-color: #8bd5ff;
 }
 
 html[data-theme="dark"] .news-section {

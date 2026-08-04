@@ -3,7 +3,7 @@ main:
   - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
     authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: ACMMM
-    conference: <i style="color:#8bd5ff">ACMMM 2026.</i>
+    conference: <i style="color:#1e90ff">ACMMM 2026.</i>
     page: https://egodemogen.github.io/
     pdf: https://arxiv.org/abs/2509.22578
     code: https://github.com/GigaAI-research/EgoDemoGen
@@ -12,7 +12,7 @@ main:
   - title: "Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision"
     authors: Yuan Xu, Yixiang Chen, Kai Wang, <strong>Jiabing Yang</strong>, Peiyan Li, Qisen Ma, Yan Huang, Liang Wang
     conference_short: IROS
-    conference: <i style="color:#8bd5ff">IROS 2026.</i>
+    conference: <i style="color:#1e90ff">IROS 2026.</i>
     page: https://hi-yuanxu.github.io/StaKe-Web/
     pdf: https://arxiv.org/abs/2606.26801
     image: ./assets/teaser/StaKe.png
@@ -20,7 +20,7 @@ main:
   - title: "Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Qisen Ma, Tao Yu, Peiyan Li, Yingda Li, Yan Huang, Liang Wang
     conference_short: ACMMM
-    conference: <i style="color:#8bd5ff">ACMMM 2026 MRAC Workshop.</i>
+    conference: <i style="color:#1e90ff">ACMMM 2026 MRAC Workshop.</i>
     page: https://github.com/jiabingyang01/EmoPrefer-Audit
     pdf: https://arxiv.org/abs/2607.18508
     code: https://github.com/jiabingyang01/EmoPrefer-Audit
@@ -29,7 +29,7 @@ main:
   - title: "UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Xiangnan Wu, Zichen Wen, Bowen Fang, Tao Yu, Zhengbo Zhang, Yingda Li, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: arXiv
-    conference: <i style="color:#8bd5ff">arXiv 2026.</i>
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
     page: https://uaor.jiabingyang.cn/
     pdf: https://arxiv.org/abs/2602.18020v1
     code: https://uaor.jiabingyang.cn/ 
@@ -38,7 +38,7 @@ main:
   - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
     authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
     conference_short: CVPR
-    conference: <i style="color:#8bd5ff">CVPR 2026.</i>
+    conference: <i style="color:#1e90ff">CVPR 2026.</i>
     page: https://arxiv.org/abs/2508.13305
     pdf: https://arxiv.org/abs/2508.13305
     code: https://arxiv.org/abs/2508.13305 
@@ -47,7 +47,7 @@ main:
   - title: "ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models"
     authors: Bowen Fang, Wen Ye, Yunyue Su, Jinghao Zhang, Qiang Liu, Yesheng Liu, Xin Sun, Shu Wu, <strong>Jiabing Yang</strong>, Baole Wei, Liang Wang
     conference_short: ICLR
-    conference: <i style="color:#8bd5ff">ICLR 2026.</i>
+    conference: <i style="color:#1e90ff">ICLR 2026.</i>
     page: https://github.com/Fwibo/ToolWeaver
     pdf: https://arxiv.org/abs/2601.21947
     code: https://github.com/Fwibo/ToolWeaver
@@ -56,7 +56,7 @@ main:
   - title: "Privacy Preserving Person Re-identification via Anonymizing Diffusion Model"
     authors: Rui Wang, Ruikang Lin, <strong>Jiabing Yang</strong>, Hao Ni, Jingkuan Song
     conference_short: PR
-    conference: <i style="color:#8bd5ff">Pattern Recognition.</i>
+    conference: <i style="color:#1e90ff">Pattern Recognition.</i>
     page: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016024
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325016024
     code: https://github.com/Physics-wr/Anonymizing-Diffusion-Model 
@@ -65,7 +65,7 @@ main:
   - title: "AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs"
     authors: Peize He, Zichen Wen, Yubo Wang, Yuxuan Wang, Xiaoqian Liu, Jiajie Huang, Zehui Lei, Zhuangcheng Gu, Xiangqi Jin, <strong>Jiabing Yang</strong>, Kai Li, Zhifei Liu, Weijia Li, Cunxiang Wang, Conghui He, Linfeng Zhang
     conference_short: arXiv
-    conference: <i style="color:#8bd5ff">arXiv 2025.</i>
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://github.com/DabDans/AudioMarathon
     pdf: https://arxiv.org/abs/2510.07293
     code: https://github.com/DabDans/AudioMarathon 
@@ -74,7 +74,7 @@ main:
   - title: "LaPA<sup>2</sup>: Length-aware Prefix and Prompt Attention Augmentation for Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: arXiv
-    conference: <i style="color:#8bd5ff">arXiv 2025.</i>
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.04047
     pdf: https://arxiv.org/abs/2508.04047
     code: https://arxiv.org/abs/2508.04047 
@@ -83,7 +83,7 @@ main:
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
     authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
     conference_short: arXiv
-    conference: <i style="color:#8bd5ff">arXiv 2025.</i>
+    conference: <i style="color:#1e90ff">arXiv 2025.</i>
     page: https://arxiv.org/abs/2508.03469
     pdf: https://arxiv.org/abs/2508.03469
     code: https://arxiv.org/abs/2508.03469 
@@ -92,7 +92,7 @@ main:
   - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
     conference_short: ICCV
-    conference: <i style="color:#8bd5ff">ICCV 2025.</i>
+    conference: <i style="color:#1e90ff">ICCV 2025.</i>
     page: https://ec-flow1.github.io/
     pdf: https://arxiv.org/abs/2507.06224
     code: https://github.com/YixiangChen515/EC-Flow 

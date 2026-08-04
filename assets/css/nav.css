@@ -2,10 +2,6 @@
   --nav-height: 48px;
   --nav-blue: #8bd5ff;
   --nav-text: #003b63;
-  --nav-text-muted: rgba(0, 59, 99, 0.84);
-  --nav-hover-bg: rgba(0, 59, 99, 0.08);
-  --nav-control-border: rgba(0, 59, 99, 0.3);
-  --nav-control-border-hover: rgba(0, 59, 99, 0.6);
 }
 
 html {
@@ -59,7 +55,7 @@ html {
   display: flex;
   align-items: center;
   padding: 0 8px;
-  color: var(--nav-text-muted) !important;
+  color: rgba(0, 59, 99, 0.84) !important;
   font-size: 15px;
   font-weight: 500;
   line-height: 1;
@@ -86,7 +82,7 @@ html {
 .nav-link:hover,
 .nav-link:focus-visible {
   color: var(--nav-text) !important;
-  background: var(--nav-hover-bg);
+  background: rgba(0, 59, 99, 0.08);
 }
 
 .nav-link.is-active {
@@ -156,7 +152,7 @@ html {
   padding: 0;
   color: var(--nav-text);
   background: transparent;
-  border: 1px solid var(--nav-control-border);
+  border: 1px solid rgba(0, 59, 99, 0.3);
   border-radius: 50%;
   cursor: pointer;
   transition: background-color 160ms ease, border-color 160ms ease,
@@ -164,8 +160,8 @@ html {
 }
 
 .theme-toggle:hover {
-  background: var(--nav-hover-bg);
-  border-color: var(--nav-control-border-hover);
+  background: rgba(0, 59, 99, 0.1);
+  border-color: rgba(0, 59, 99, 0.6);
 }
 
 .theme-toggle:active {
