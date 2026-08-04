@@ -6,14 +6,16 @@ affiliation: Institute of Automation, Chinese Academy of Sciences
 affiliation_link: https://www.ia.cas.cn/
 # subaffiliation_link: https://ai.ucas.ac.cn/index.php/zh-cn/
 affiliation_logo: ./assets/img/ucas.png
-email: <a href="mailto:jyangjiabing2025@ia.ac.cn">yangjiabing2025@ia.ac.cn</a>
+email: <a href="mailto:yangjiabing2025@ia.ac.cn">yangjiabing2025@ia.ac.cn</a>
 # email2: <a href="mailto:yangjiabing0405@163.com">yangjiabing0405@163.com</a>
 address: Beijing, China
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+url: https://jiabingyang01.github.io
+baseurl: ""
+keywords: Jiabing Yang, Yang Jiabing, UCAS, CASIA, large language models, multimodal large language models, embodied AI, vision-language-action
+canonical: https://jiabingyang01.github.io/
+description: Jiabing Yang is a Ph.D. student at UCAS and CASIA, researching large language models, multimodal large language models, and embodied AI.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -30,9 +32,9 @@ github_link: https://github.com/jiabingyang01/
 twitter: https://x.com/jiabing_yang
 
 # Images 
-avatar: ./assets/img/yjb.jpg
-favicon: ./assets/img/yjb.jpg
-favicon_dark: ./assets/img/yjb.jpg
+avatar: /assets/img/yjb.jpg
+favicon: /assets/img/yjb.jpg
+favicon_dark: /assets/img/yjb.jpg
 
 # Footnotes
 # footnote: Feel free to use my website's source code.

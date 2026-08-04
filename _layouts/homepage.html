@@ -6,20 +6,23 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="color-scheme" content="light dark" />
-    <meta name="description" content="{{ site.title }}">
+    <meta name="description" content="{{ site.description }}">
     <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="author" content="{{ site.title }}">
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:url" content="{{ site.canonical }}">
     <meta property="og:site_name" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:locale" content="default">
-    <meta property="og:image" content="{{ site.avatar }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="{{ site.avatar | absolute_url }}">
+    <meta property="og:image:alt" content="Portrait of {{ site.title }}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="{{ site.avatar }}">
+    <meta name="twitter:image" content="{{ site.avatar | absolute_url }}">
+    <meta name="twitter:image:alt" content="Portrait of {{ site.title }}">
 
     <script>
       (function () {
