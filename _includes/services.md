@@ -1,6 +1,13 @@
 <h1 id="services"></h1>
 
-<h2 style="margin: 30px 0px 10px;">Services</h2>
+<h2 style="margin: 30px 0px 10px;">Academic Services</h2>
+
+<h4 style="margin:0 10px 0;">Conference and Workshop Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>Reviewer, <a href="https://gigaai-research.github.io/GigaBrain-Challenge-2026/"><autocolor>GigaBrain Challenge 2026: Workshop on World Models Empowering Vision Language Action Model, CVPR 2026</autocolor></a></li>
+  <li>Reviewer, <a href="https://neurips.cc/Conferences/2026"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2026</autocolor></a></li>
+</ul>
 
 <!-- <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
