@@ -32,6 +32,7 @@
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <script src="{{ '/assets/js/navigation.js' | relative_url }}" defer></script>
     
     <script type="text/javascript">
       function toggle_vis(id) {
@@ -43,34 +44,21 @@
       }
    </script>
 
-   <script>
-      function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "block") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "block";
-      }
-      }
-   </script>
-   
-
   </head>
   <body>
-    
-    <div class="topnav">
+    <nav class="topnav" aria-label="Primary navigation">
+      <div class="topnav-inner">
+        <a class="nav-brand" href="#about-me" aria-label="Back to About">{{ site.title }}</a>
 
-      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+        <div class="nav-links" id="primary-navigation">{%- include navigation.md -%}</div>
 
-      <div id="myLinks">
-      {% include navigation.md %}
+        <button class="nav-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="primary-navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
       </div>
-
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-      </a>
-      
-    </div>
+    </nav>
     
 
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>

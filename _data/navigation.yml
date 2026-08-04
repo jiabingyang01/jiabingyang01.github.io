@@ -1,23 +1,18 @@
-# main:
+main:
+  - title: "About"
+    url: "#about-me"
 
-#   - title: "Contact"
-#     url: ./#contact 
-#     right: true 
+  - title: "Research"
+    url: "#research-interests"
 
-#   # - title: "Services"
-#   #  url: ./#services
+  - title: "News"
+    url: "#news"
 
-#   #- title: "Talks"
-#   #  url: ./#invited-talks
+  - title: "Publications"
+    url: "#publications"
 
-#   #- title: "Teaching"
-#   #  url: ./#teaching
+  - title: "Services"
+    url: "#services"
 
-#   - title: "Publications"
-#     url: ./#publications
-
-#   #- title: "News"
-#   #  url: ./#news
-
-#   - title: "Bio"
-#     url: ./#about-me
+  - title: "Contact"
+    url: "#contact"
