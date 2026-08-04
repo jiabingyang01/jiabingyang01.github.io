@@ -1,35 +1,33 @@
 :root {
   --nav-height: 48px;
-  --nav-blue: #315f7d;
+  --nav-blue: #3399cc;
 }
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: calc(var(--nav-height) + 28px);
+  scroll-padding-top: calc(var(--nav-height) + 14px);
 }
 
 .topnav {
   position: fixed;
-  inset: 10px 0 auto 0;
+  inset: 0 0 auto 0;
   z-index: 999;
   height: var(--nav-height);
   overflow: visible;
-  pointer-events: none;
+  background: var(--nav-blue);
+  border-bottom: 1px solid rgba(0, 80, 125, 0.18);
+  box-shadow: 0 2px 8px rgba(0, 65, 105, 0.14);
 }
 
 .topnav-inner {
   position: relative;
-  width: min(840px, calc(100% - 24px));
+  width: min(960px, calc(100% - 30px));
   height: 100%;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0;
   box-sizing: border-box;
   display: flex;
   align-items: center;
-  pointer-events: auto;
-  background: var(--nav-blue);
-  border-radius: 10px;
-  box-shadow: 0 3px 14px rgba(22, 52, 72, 0.2);
 }
 
 .nav-brand {
@@ -144,12 +142,12 @@ html {
 
 @media screen and (max-width: 960px) {
   body {
-    padding-top: calc(var(--nav-height) + 25px);
+    padding-top: calc(var(--nav-height) + 15px);
   }
 
   .topnav-inner {
-    width: calc(100% - 20px);
-    padding: 0 12px;
+    width: calc(100% - 30px);
+    padding: 0;
   }
 
   .nav-toggle {
@@ -158,7 +156,7 @@ html {
 
   .nav-links {
     position: absolute;
-    top: calc(100% + 6px);
+    top: 100%;
     right: 0;
     left: 0;
     display: none;
@@ -166,7 +164,7 @@ html {
     padding: 8px 12px 12px;
     background: var(--nav-blue);
     border-top: 1px solid rgba(255, 255, 255, 0.12);
-    border-radius: 8px;
+    border-radius: 0 0 8px 8px;
     box-shadow: 0 8px 16px rgba(0, 24, 61, 0.2);
   }
 
