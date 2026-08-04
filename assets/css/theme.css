@@ -1,11 +1,17 @@
 :root {
   color-scheme: light;
-  --site-light-accent-color: #167ead;
+  --site-light-accent-color: #247db3;
   --site-dark-accent-color: #8bd5ff;
 }
 
 html[data-theme="light"] {
   --global-theme-color: var(--site-light-accent-color);
+  --nav-blue: var(--site-light-accent-color);
+  --nav-text: #ffffff;
+  --nav-text-muted: rgba(255, 255, 255, 0.9);
+  --nav-hover-bg: rgba(255, 255, 255, 0.12);
+  --nav-control-border: rgba(255, 255, 255, 0.45);
+  --nav-control-border-hover: rgba(255, 255, 255, 0.8);
 }
 
 html[data-theme="light"] h1,
@@ -51,6 +57,12 @@ html[data-theme="dark"] {
   --global-text-color: #d1d5db;
   --global-text-color-light: #9ca3af;
   --global-theme-color: var(--site-dark-accent-color);
+  --nav-blue: var(--site-dark-accent-color);
+  --nav-text: #003b63;
+  --nav-text-muted: rgba(0, 59, 99, 0.84);
+  --nav-hover-bg: rgba(0, 59, 99, 0.08);
+  --nav-control-border: rgba(0, 59, 99, 0.3);
+  --nav-control-border-hover: rgba(0, 59, 99, 0.6);
 }
 
 body,
