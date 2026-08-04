@@ -13,11 +13,11 @@ html[data-theme="light"] h3,
 html[data-theme="light"] h4,
 html[data-theme="light"] h5,
 html[data-theme="light"] h6 {
-  color: #1f7faf;
+  color: #1976a3;
 }
 
 html[data-theme="light"] .social-icons a {
-  color: #1f7faf !important;
+  color: #1976a3 !important;
 }
 
 html[data-theme="light"] .nav-link {
