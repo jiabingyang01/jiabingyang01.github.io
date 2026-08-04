@@ -2,8 +2,8 @@ main:
 
   - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
     authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
-    conference_short: ACM MM
-    conference: <i style="color:#1e90ff">ACM MM 2026.</i>
+    conference_short: ACMMM
+    conference: <i style="color:#1e90ff">ACMMM 2026.</i>
     page: https://egodemogen.github.io/
     pdf: https://arxiv.org/abs/2509.22578
     code: https://github.com/GigaAI-research/EgoDemoGen
@@ -19,7 +19,7 @@ main:
 
   - title: "Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Qisen Ma, Tao Yu, Peiyan Li, Yingda Li, Yan Huang, Liang Wang
-    conference_short: ACM MM
+    conference_short: ACMMM
     conference: <i style="color:#1e90ff">ACMMM 2026 MRAC Workshop.</i>
     page: https://github.com/jiabingyang01/EmoPrefer-Audit
     pdf: https://arxiv.org/abs/2607.18508
