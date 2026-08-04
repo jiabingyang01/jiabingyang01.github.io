@@ -20,7 +20,7 @@ main:
   - title: "Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Qisen Ma, Tao Yu, Peiyan Li, Yingda Li, Yan Huang, Liang Wang
     conference_short: ACM MM
-    conference: <i style="color:#1e90ff">ACM MM 2026 Workshop.</i>
+    conference: <i style="color:#1e90ff">ACMMM 2026 MRAC Workshop.</i>
     page: https://github.com/jiabingyang01/EmoPrefer-Audit
     pdf: https://arxiv.org/abs/2607.18508
     code: https://github.com/jiabingyang01/EmoPrefer-Audit
