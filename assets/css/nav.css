@@ -1,30 +1,35 @@
 :root {
-  --nav-height: 58px;
-  --nav-blue: #002d72;
+  --nav-height: 48px;
+  --nav-blue: #315f7d;
 }
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: calc(var(--nav-height) + 14px);
+  scroll-padding-top: calc(var(--nav-height) + 28px);
 }
 
 .topnav {
   position: fixed;
-  inset: 0 0 auto 0;
+  inset: 10px 0 auto 0;
   z-index: 999;
   height: var(--nav-height);
   overflow: visible;
-  background: var(--nav-blue);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
-  box-shadow: 0 2px 12px rgba(0, 24, 61, 0.16);
+  pointer-events: none;
 }
 
 .topnav-inner {
-  width: min(960px, calc(100% - 32px));
+  position: relative;
+  width: min(840px, calc(100% - 24px));
   height: 100%;
   margin: 0 auto;
+  padding: 0 16px;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
+  pointer-events: auto;
+  background: var(--nav-blue);
+  border-radius: 10px;
+  box-shadow: 0 3px 14px rgba(22, 52, 72, 0.2);
 }
 
 .nav-brand {
@@ -33,7 +38,7 @@ html {
   align-items: center;
   height: 100%;
   color: #ffffff !important;
-  font-size: 19px;
+  font-size: 17px;
   font-weight: 600;
   letter-spacing: 0.015em;
   text-decoration: none;
@@ -50,9 +55,9 @@ html {
   position: relative;
   display: flex;
   align-items: center;
-  padding: 0 10px;
+  padding: 0 8px;
   color: rgba(255, 255, 255, 0.86) !important;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 1;
   letter-spacing: 0.01em;
@@ -64,22 +69,26 @@ html {
 .nav-link::after {
   content: "";
   position: absolute;
-  right: 10px;
+  right: 8px;
   bottom: 0;
-  left: 10px;
-  height: 3px;
+  left: 8px;
+  height: 2px;
   border-radius: 3px 3px 0 0;
-  background: #65c7f7;
+  background: #b9e6ff;
   transform: scaleX(0);
   transform-origin: center;
   transition: transform 160ms ease;
 }
 
 .nav-link:hover,
-.nav-link:focus-visible,
+.nav-link:focus-visible {
+  color: #ffffff !important;
+  background: rgba(255, 255, 255, 0.08);
+}
+
 .nav-link.is-active {
   color: #ffffff !important;
-  background: rgba(255, 255, 255, 0.09);
+  background: transparent;
 }
 
 .nav-link:hover::after,
@@ -135,13 +144,12 @@ html {
 
 @media screen and (max-width: 960px) {
   body {
-    padding-top: calc(var(--nav-height) + 15px);
+    padding-top: calc(var(--nav-height) + 25px);
   }
 
   .topnav-inner {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 0 16px;
+    width: calc(100% - 20px);
+    padding: 0 12px;
   }
 
   .nav-toggle {
@@ -150,14 +158,15 @@ html {
 
   .nav-links {
     position: absolute;
-    top: 100%;
+    top: calc(100% + 6px);
     right: 0;
     left: 0;
     display: none;
     margin: 0;
     padding: 8px 12px 12px;
-    background: rgba(0, 45, 114, 0.99);
+    background: var(--nav-blue);
     border-top: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
     box-shadow: 0 8px 16px rgba(0, 24, 61, 0.2);
   }
 
