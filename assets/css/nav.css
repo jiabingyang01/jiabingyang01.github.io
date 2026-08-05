@@ -184,6 +184,58 @@ html {
   display: none;
 }
 
+#back-to-top {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 998;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  color: var(--nav-text);
+  background: var(--nav-blue);
+  border: 1px solid rgba(0, 59, 99, 0.28);
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 65, 105, 0.2);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(8px);
+  pointer-events: none;
+  cursor: pointer;
+  transition: opacity 160ms ease, visibility 160ms ease,
+    transform 160ms ease, background-color 160ms ease,
+    border-color 160ms ease;
+}
+
+#back-to-top.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+#back-to-top:hover {
+  filter: brightness(0.94);
+  border-color: rgba(0, 59, 99, 0.55);
+}
+
+#back-to-top:active {
+  transform: scale(0.94);
+}
+
+#back-to-top:focus-visible {
+  outline: 2px solid var(--nav-blue);
+  outline-offset: 2px;
+}
+
+#back-to-top i {
+  font-size: 12px;
+  line-height: 1;
+}
+
 html[data-theme="dark"] .theme-icon-moon {
   display: none;
 }

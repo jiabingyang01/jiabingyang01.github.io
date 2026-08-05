@@ -69,8 +69,7 @@ a,
 strong,
 autocolor,
 .social-icons a,
-.publications ol.bibliography li .links a.btn,
-#back-to-top {
+.publications ol.bibliography li .links a.btn {
   transition: color 180ms ease, background-color 180ms ease,
     border-color 180ms ease;
 }
@@ -158,12 +157,6 @@ html[data-theme="dark"] .publications ol.bibliography li .links a.btn:hover {
 
 html[data-theme="dark"] .news-section {
   scrollbar-color: #64748b #1f2937;
-}
-
-html[data-theme="dark"] #back-to-top {
-  color: #e5e7eb !important;
-  background-color: #1f2937 !important;
-  border-color: #4b5563 !important;
 }
 
 @media print, screen and (max-width: 960px) {

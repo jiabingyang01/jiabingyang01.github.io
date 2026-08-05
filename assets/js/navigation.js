@@ -103,13 +103,42 @@
     updateToggle(root.getAttribute("data-theme") || "light");
   }
 
+  function initializeBackToTop() {
+    const button = document.getElementById("back-to-top");
+
+    if (!button) return;
+
+    function updateVisibility() {
+      const isVisible = window.scrollY > 320;
+      button.classList.toggle("is-visible", isVisible);
+      button.tabIndex = isVisible ? 0 : -1;
+      button.setAttribute("aria-hidden", String(!isVisible));
+    }
+
+    button.addEventListener("click", function () {
+      const reduceMotion = window.matchMedia(
+        "(prefers-reduced-motion: reduce)"
+      ).matches;
+
+      window.scrollTo({
+        top: 0,
+        behavior: reduceMotion ? "auto" : "smooth",
+      });
+    });
+
+    window.addEventListener("scroll", updateVisibility, { passive: true });
+    updateVisibility();
+  }
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", function () {
       initializeNavigation();
       initializeThemeToggle();
+      initializeBackToTop();
     });
   } else {
     initializeNavigation();
     initializeThemeToggle();
+    initializeBackToTop();
   }
 })();
