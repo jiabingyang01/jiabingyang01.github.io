@@ -144,13 +144,17 @@ html {
 }
 
 .theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 16px;
+  z-index: 1000;
   display: inline-flex;
   flex: 0 0 auto;
   align-items: center;
   justify-content: center;
   width: 28px;
   height: 28px;
-  margin: 0 0 0 6px;
+  margin: 0;
   padding: 0;
   color: var(--nav-text);
   background: transparent;
@@ -255,6 +259,12 @@ html[data-theme="dark"] .theme-icon-sun {
   display: inline-block;
 }
 
+@media screen and (min-width: 961px) and (max-width: 1064px) {
+  .nav-links {
+    margin-right: 40px;
+  }
+}
+
 @media screen and (max-width: 960px) {
   body {
     padding-top: calc(var(--nav-height) + 15px);
@@ -274,11 +284,12 @@ html[data-theme="dark"] .theme-icon-sun {
 
   .nav-toggle {
     display: flex;
-    margin-left: 4px;
+    margin-right: 40px;
+    margin-left: auto;
   }
 
   .theme-toggle {
-    margin-left: auto;
+    right: 15px;
   }
 
   .nav-links {
