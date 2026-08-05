@@ -25,22 +25,7 @@
     <meta name="twitter:image:alt" content="Portrait of {{ site.title }}">
 
     <script>
-      (function () {
-        var theme = "light";
-        try {
-          var savedTheme = localStorage.getItem("site-theme");
-          if (savedTheme === "light" || savedTheme === "dark") {
-            theme = savedTheme;
-          } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-            theme = "dark";
-          }
-        } catch (error) {
-          if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-            theme = "dark";
-          }
-        }
-        document.documentElement.setAttribute("data-theme", theme);
-      })();
+      document.documentElement.setAttribute("data-theme", "light");
     </script>
 
     <link rel="canonical" href="{{site.canonical}}"/>
