@@ -162,12 +162,10 @@ html[data-theme="dark"] .news-section {
 html[data-theme="dark"] #back-to-top {
   color: #ffffff;
   background: transparent;
-  border-color: rgba(255, 255, 255, 0.45);
 }
 
 html[data-theme="dark"] #back-to-top:hover {
   background: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.8);
 }
 
 @media print, screen and (max-width: 960px) {
