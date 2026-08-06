@@ -257,7 +257,7 @@ html[data-theme="dark"] .theme-icon-sun {
 
 @media screen and (min-width: 961px) {
   header {
-    padding-top: calc(5.5em + 10px);
+    padding-top: calc(5.5em + 5px);
   }
 
   section {
