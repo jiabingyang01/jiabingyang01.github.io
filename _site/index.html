@@ -55,10 +55,24 @@
 
   </head>
   <body>
-    <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
-      <i class="fa-solid fa-sun theme-icon theme-icon-sun" aria-hidden="true"></i>
-      <i class="fa-solid fa-moon theme-icon theme-icon-moon" aria-hidden="true"></i>
-    </button>
+    <nav class="topnav" aria-label="Primary navigation">
+      <div class="topnav-inner">
+        <a class="nav-brand" href="#about-me" aria-label="Back to About">Jiabing Yang</a>
+
+        <div class="nav-links" id="primary-navigation"><a class="nav-link" href="#about-me">About</a><a class="nav-link" href="#research-interests">Research</a><a class="nav-link" href="#news">News</a><a class="nav-link" href="#publications">Publications</a><a class="nav-link" href="#services">Services</a><a class="nav-link" href="#contact">Contact</a></div>
+
+        <button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+          <i class="fa-solid fa-sun theme-icon theme-icon-sun" aria-hidden="true"></i>
+          <i class="fa-solid fa-moon theme-icon theme-icon-moon" aria-hidden="true"></i>
+        </button>
+
+        <button class="nav-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="primary-navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </nav>
 
     <button id="back-to-top" type="button" aria-label="Back to top" title="Back to top">
       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -123,10 +137,7 @@
         
         </div>
         
-
-        <nav class="side-nav" aria-label="Primary navigation">
-          <div class="nav-links" id="primary-navigation"><a class="nav-link" href="#about-me">About</a><a class="nav-link" href="#research-interests">Research</a><a class="nav-link" href="#news">News</a><a class="nav-link" href="#publications">Publications</a><a class="nav-link" href="#services">Services</a><a class="nav-link" href="#contact">Contact</a></div>
-        </nav>
+        <br>
 
       </header>
       <section>

@@ -4,14 +4,7 @@
 
 html[data-theme="light"] {
   --nav-blue: #3399cc;
-  --nav-text: #1f7faf;
-  --side-nav-text: #737373;
-  --side-nav-active: #1f7faf;
-  --side-nav-line: #d7e5ec;
-  --side-nav-hover: rgba(51, 153, 204, 0.08);
-  --theme-toggle-bg: rgba(255, 255, 255, 0.94);
-  --theme-toggle-border: rgba(31, 127, 175, 0.3);
-  --theme-toggle-shadow: rgba(0, 65, 105, 0.16);
+  --nav-text: #ffffff;
 }
 
 html[data-theme="light"] h1,
@@ -31,6 +24,30 @@ html[data-theme="light"] .badge {
   color: #ffffff !important;
 }
 
+html[data-theme="light"] .nav-link {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+html[data-theme="light"] .nav-link:hover,
+html[data-theme="light"] .nav-link:focus-visible,
+html[data-theme="light"] .nav-link.is-active {
+  color: #ffffff !important;
+}
+
+html[data-theme="light"] .nav-link:hover,
+html[data-theme="light"] .nav-link:focus-visible {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+html[data-theme="light"] .theme-toggle {
+  border-color: rgba(255, 255, 255, 0.45);
+}
+
+html[data-theme="light"] .theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
 html[data-theme="dark"] {
   color-scheme: dark;
   --nav-blue: #67c5f3;
@@ -39,14 +56,6 @@ html[data-theme="dark"] {
   --global-text-color: #d1d5db;
   --global-text-color-light: #9ca3af;
   --global-theme-color: #67c5f3;
-  --nav-text: #8bd5ff;
-  --side-nav-text: #9ca3af;
-  --side-nav-active: #8bd5ff;
-  --side-nav-line: #374151;
-  --side-nav-hover: rgba(103, 197, 243, 0.09);
-  --theme-toggle-bg: rgba(31, 41, 55, 0.94);
-  --theme-toggle-border: rgba(139, 213, 255, 0.32);
-  --theme-toggle-shadow: rgba(0, 0, 0, 0.35);
 }
 
 body,
