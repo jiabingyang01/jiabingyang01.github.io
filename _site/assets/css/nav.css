@@ -255,6 +255,16 @@ html[data-theme="dark"] .theme-icon-sun {
   display: inline-block;
 }
 
+@media screen and (min-width: 961px) {
+  header {
+    padding-top: calc(5.5em + 10px);
+  }
+
+  section {
+    padding-top: calc(1.2em + 10px);
+  }
+}
+
 @media screen and (max-width: 960px) {
   body {
     padding-top: calc(var(--nav-height) + 15px);
