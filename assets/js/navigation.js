@@ -2,45 +2,12 @@
   "use strict";
 
   function initializeNavigation() {
-    const nav = document.querySelector(".topnav");
+    const nav = document.querySelector(".side-nav");
     const menu = document.getElementById("primary-navigation");
-    const toggle = document.querySelector(".nav-toggle");
 
-    if (!nav || !menu || !toggle) return;
+    if (!nav || !menu) return;
 
     const links = Array.from(menu.querySelectorAll('a[href^="#"]'));
-
-    function setMenuState(isOpen) {
-      menu.classList.toggle("is-open", isOpen);
-      toggle.classList.toggle("is-open", isOpen);
-      toggle.setAttribute("aria-expanded", String(isOpen));
-      toggle.setAttribute(
-        "aria-label",
-        isOpen ? "Close navigation menu" : "Open navigation menu"
-      );
-    }
-
-    toggle.addEventListener("click", function () {
-      setMenuState(toggle.getAttribute("aria-expanded") !== "true");
-    });
-
-    links.forEach(function (link) {
-      link.addEventListener("click", function () {
-        setMenuState(false);
-      });
-    });
-
-    document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape") setMenuState(false);
-    });
-
-    document.addEventListener("click", function (event) {
-      if (!nav.contains(event.target)) setMenuState(false);
-    });
-
-    window.addEventListener("resize", function () {
-      if (window.innerWidth > 960) setMenuState(false);
-    });
 
     const sections = links
       .map(function (link) {
@@ -54,7 +21,7 @@
     function updateActiveLink() {
       if (!sections.length) return;
 
-      const marker = window.scrollY + nav.offsetHeight + 36;
+      const marker = window.scrollY + 40;
       let activeId = sections[0].id;
 
       sections.forEach(function (section) {
