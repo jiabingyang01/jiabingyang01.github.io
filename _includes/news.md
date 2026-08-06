@@ -5,6 +5,7 @@
 <div class="news-section">
 <ul>
 <!--   <li><strong>[Aug. 2024]</strong> 🎉🎉🎉Our paper about union contrastive decoding to mitigate hallucinations in LVLMs is submitted to AAAI 2025.</li> -->
+  <li><strong>[Aug. 2026]</strong> 🚀 Our paper <a href="https://bridgevla-plus.github.io/">BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation</a> is now available on <a href="https://arxiv.org/abs/2608.05042">arXiv</a>.</li>
   <li><strong>[Aug. 2026]</strong> 🎉🎉🎉 Our paper <a href="https://egodemogen.github.io/">EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation</a> is accepted to <a href="https://2026.acmmm.org/">ACMMM 2026</a>.</li>
   <li><strong>[Jul. 2026]</strong> 🎉 Our paper <a href="https://arxiv.org/abs/2607.18508">Style over Substance: A Shortcut Audit of Emotion-Description Preference Evaluation</a> is accepted to the <a href="https://react-ws.github.io/2026_mrac/">ACMMM 2026 MRAC Workshop</a>.</li>
   <li><strong>[Jun. 2026]</strong> 🎉🎉🎉 Our paper <a href="https://hi-yuanxu.github.io/StaKe-Web/">Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision</a> is accepted to <a href="https://2026.ieee-iros.org/">IROS 2026</a>.</li>

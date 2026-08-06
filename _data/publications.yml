@@ -1,5 +1,14 @@
 main:
 
+  - title: "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation"
+    authors: Peiyan Li<sup>*</sup>, Yuze Zhu<sup>*</sup>, Yixiang Chen, Qisen Ma, Yuan Xu, <strong>Jiabing Yang</strong>, He Guan, Yan Huang, Hongtao Wu, Xiao Ma, Tao Kong, Liang Wang, Tieniu Tan
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026. Under review at IEEE TPAMI.</i>
+    page: https://bridgevla-plus.github.io/
+    pdf: https://arxiv.org/abs/2608.05042
+    code: https://github.com/BridgeVLA/BridgeVLA
+    image: ./assets/teaser/BridgeVLAPlus.png
+
   - title: "EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation"
     authors: Yuan Xu<sup>*</sup>, <strong>Jiabing Yang</strong><sup>*</sup>, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
     conference_short: ACMMM
