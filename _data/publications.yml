@@ -1,5 +1,14 @@
 main:
 
+  - title: "LaPA<sup>2</sup>: Length-Aware Prefix and Prompt Attention Augmentation for Long-Form Controllable Text Generation"
+    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
+    conference_short: PR
+    conference: <i style="color:#1e90ff">Pattern Recognition.</i>
+    page: https://github.com/jiabingyang01/LaPA2
+    pdf: https://arxiv.org/abs/2508.04047
+    code: https://github.com/jiabingyang01/LaPA2
+    image: ./assets/teaser/LaPA2.png
+
   - title: "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation"
     authors: Peiyan Li<sup>*</sup>, Yuze Zhu<sup>*</sup>, Yixiang Chen, Qisen Ma, Yuan Xu, <strong>Jiabing Yang</strong>, He Guan, Yan Huang, Hongtao Wu, Xiao Ma, Tao Kong, Liang Wang, Tieniu Tan
     conference_short: arXiv
@@ -79,15 +88,6 @@ main:
     pdf: https://arxiv.org/abs/2510.07293
     code: https://github.com/DabDans/AudioMarathon 
     image: ./assets/teaser/AudioMarathon.png
-
-  - title: "LaPA<sup>2</sup>: Length-aware Prefix and Prompt Attention Augmentation for Controllable Text Generation"
-    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
-    conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2025.</i>
-    page: https://arxiv.org/abs/2508.04047
-    pdf: https://arxiv.org/abs/2508.04047
-    code: https://arxiv.org/abs/2508.04047 
-    image: ./assets/teaser/LaPA2.png
 
   - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
     authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
