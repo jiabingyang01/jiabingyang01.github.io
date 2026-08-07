@@ -36,6 +36,15 @@ main:
     code: https://github.com/jiabingyang01/EmoPrefer-Audit
     image: ./assets/teaser/EmoPreferAudit.png
 
+  - title: "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models"
+    authors: Yixiang Chen<sup>*</sup>, Peiyan Li<sup>*</sup>, Yuan Xu, Qisen Ma, <strong>Jiabing Yang</strong>, Kai Wang, Jianhua Yang, Dong An, He Guan, Gaoteng Liu, Jianlou Si, Jun Huang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
+    page: https://flow-wam.github.io/
+    pdf: https://arxiv.org/abs/2607.13017
+    code: https://github.com/YixiangChen515/FlowWAM
+    image: ./assets/teaser/FlowWAM.png
+
   - title: "Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision"
     authors: Yuan Xu, Yixiang Chen, Kai Wang, <strong>Jiabing Yang</strong>, Peiyan Li, Qisen Ma, Yan Huang, Liang Wang
     conference_short: IROS
@@ -52,6 +61,14 @@ main:
     pdf: https://arxiv.org/abs/2602.18020v1
     code: https://uaor.jiabingyang.cn/ 
     image: ./assets/teaser/UAOR.png
+
+  - title: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks"
+    authors: Yixiang Chen, Peiyan Li, <strong>Jiabing Yang</strong>, Keji He, Xiangnan Wu, Yuan Xu, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
+    page: https://bridgev2w.github.io/
+    pdf: https://arxiv.org/abs/2602.03793
+    image: ./assets/teaser/BridgeV2W.png
 
   - title: "Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving"
     authors: Minhao Xiong, Zichen Wen, Zhuangcheng Gu, Xuyang Liu, Rui Zhang, Hengrui Kang, <strong>Jiabing Yang</strong>, Junyuan Zhang, Weijia Li, Conghui He, Yafei Wang, Linfeng Zhang
