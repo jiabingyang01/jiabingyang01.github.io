@@ -270,6 +270,10 @@ html[data-theme="dark"] .theme-icon-sun {
     padding-top: calc(var(--nav-height) + 15px);
   }
 
+  #about-me + h2 {
+    margin-top: 45px !important;
+  }
+
   .topnav-inner {
     width: calc(100% - 30px);
     padding: 0;
