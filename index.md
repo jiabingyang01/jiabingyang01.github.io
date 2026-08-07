@@ -24,6 +24,8 @@ I am a first-year Ph.D. student at [School of Artificial Intelligence](https://a
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
