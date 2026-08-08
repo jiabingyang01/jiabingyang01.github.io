@@ -3,7 +3,7 @@ main:
   - title: "LaPA<sup>2</sup>: Length-Aware Prefix and Prompt Attention Augmentation for Long-Form Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: PR
-    conference: <i style="color:#1e90ff">Pattern Recognition.</i>
+    conference: <i style="color:#1e90ff">Pattern Recognition 2026.</i>
     page: https://github.com/jiabingyang01/LaPA2
     pdf: https://arxiv.org/abs/2508.04047
     code: https://github.com/jiabingyang01/LaPA2
