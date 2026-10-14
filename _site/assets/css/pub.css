@@ -73,3 +73,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+.cert-btn { color: #000000; border: 1px solid #000000; padding: 0.05rem 0.45rem; font-size: 12px; margin-left: 6px; text-decoration: none; display: inline-block; line-height: 1.3; }
+
+.cert-btn:hover { color: var(--global-theme-color); border-color: var(--global-theme-color); text-decoration: none; }
+
+.cert-preview { display: block; max-width: 420px; width: 100%; height: auto; margin: 10px 0 12px 0; border-radius: 8px; box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.18); transition: transform 0.2s ease, box-shadow 0.2s ease; }
+
+.cert-preview:hover { transform: translateY(-2px); box-shadow: 3px 5px 12px rgba(0, 0, 0, 0.26); }
