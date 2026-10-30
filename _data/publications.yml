@@ -9,6 +9,15 @@ main:
     code: https://github.com/jiabingyang01/Horizon-Depth-VLA
     image: ./assets/teaser/HorizonDepthVLA.png
 
+  - title: "AWARE: Action-Entropy-Weighted and Attention-Guided Retrieval of Observation Evidence for Vision-Language-Action Models"
+    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Zichen Wen, Bowen Fang, Chenhang Cui, Tao Yu, Qisen Ma, Kai Wang, Ziheng He, Wen Ye, Xiangnan Wu, Yingda Li, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
+    page: https://jiabingyang01.github.io/AWARE/
+    pdf: https://arxiv.org/abs/2602.18020
+    code: https://github.com/jiabingyang01/AWARE
+    image: ./assets/teaser/AWARE.png
+
   - title: "LaPA<sup>2</sup>: Length-Aware Prefix and Prompt Attention Augmentation for Long-Form Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: PR
@@ -69,15 +78,6 @@ main:
     page: https://hi-yuanxu.github.io/StaKe-Web/
     pdf: https://arxiv.org/abs/2606.26801
     image: ./assets/teaser/StaKe.png
-
-  - title: "UAOR: Uncertainty-aware Observation Reinjection for Vision-Language-Action Models"
-    authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Yuan Xu, Peiyan Li, Xiangnan Wu, Zichen Wen, Bowen Fang, Tao Yu, Zhengbo Zhang, Yingda Li, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
-    conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2026.</i>
-    page: https://uaor.jiabingyang.cn/
-    pdf: https://arxiv.org/abs/2602.18020v1
-    code: https://uaor.jiabingyang.cn/ 
-    image: ./assets/teaser/UAOR.png
 
   - title: "BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks"
     authors: Yixiang Chen, Peiyan Li, <strong>Jiabing Yang</strong>, Keji He, Xiangnan Wu, Yuan Xu, Kai Wang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
