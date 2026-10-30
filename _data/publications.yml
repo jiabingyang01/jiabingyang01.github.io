@@ -1,5 +1,14 @@
 main:
 
+  - title: "Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies"
+    authors: <strong>Jiabing Yang</strong>, Yuan Xu, Yixiang Chen, Qisen Ma, Peiyan Li, Kai Wang, Chenhang Cui, Tao Yu, Zichen Wen, Wen Ye, Bowen Fang, Ziheng He, Xiangnan Wu, Yingda Li, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
+    page: https://jiabingyang01.github.io/Horizon-Depth-VLA/
+    pdf: https://arxiv.org/abs/2610.32102
+    code: https://github.com/jiabingyang01/Horizon-Depth-VLA
+    image: ./assets/teaser/HorizonDepthVLA.png
+
   - title: "LaPA<sup>2</sup>: Length-Aware Prefix and Prompt Attention Augmentation for Long-Form Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: PR
