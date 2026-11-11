@@ -18,6 +18,15 @@ main:
     code: https://github.com/jiabingyang01/AWARE
     image: ./assets/teaser/AWARE.png
 
+  - title: "IKOD: Image-Attention-Guided Key-Value Merging against Object Hallucination in the Decoding of Large Vision-Language Models"
+    authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yixiang Chen, Tao Yu, Yan Huang, Liang Wang
+    conference_short: arXiv
+    conference: <i style="color:#1e90ff">arXiv 2026.</i>
+    page: https://github.com/jiabingyang01/IKOD
+    pdf: https://arxiv.org/abs/2508.03469
+    code: https://github.com/jiabingyang01/IKOD
+    image: ./assets/teaser/IKOD.png
+
   - title: "LaPA<sup>2</sup>: Length-Aware Prefix and Prompt Attention Augmentation for Long-Form Controllable Text Generation"
     authors: <strong>Jiabing Yang</strong>, Yixiang Chen, Zichen Wen, Chenhang Cui, Peiyan Li, Yuan Xu, Bowen Fang, Tao Yu, Ruikang Lin, Yan Huang, Liang Wang
     conference_short: PR
@@ -122,15 +131,6 @@ main:
     pdf: https://arxiv.org/abs/2510.07293
     code: https://github.com/DabDans/AudioMarathon 
     image: ./assets/teaser/AudioMarathon.png
-
-  - title: "IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models"
-    authors: <strong>Jiabing Yang</strong><sup>*</sup>, Chenhang Cui<sup>*</sup>, Yiyang Zhou, Yixiang Chen, Peng Xia, Ying Wei, Tao Yu, Yan Huang, Liang Wang
-    conference_short: arXiv
-    conference: <i style="color:#1e90ff">arXiv 2025.</i>
-    page: https://arxiv.org/abs/2508.03469
-    pdf: https://arxiv.org/abs/2508.03469
-    code: https://arxiv.org/abs/2508.03469 
-    image: ./assets/teaser/IKOD.png
 
   - title: "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow"
     authors: Yixiang Chen, Peiyan Li, Yan Huang, <strong>Jiabing Yang</strong>, Kehan Chen, Liang Wang
