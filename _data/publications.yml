@@ -23,7 +23,7 @@ main:
     conference_short: arXiv
     conference: <i style="color:#1e90ff">arXiv 2026.</i>
     page: https://github.com/jiabingyang01/IKOD
-    pdf: https://arxiv.org/abs/2508.03469
+    pdf: https://arxiv.org/abs/2508.03469v2
     code: https://github.com/jiabingyang01/IKOD
     image: ./assets/teaser/IKOD.png
 
